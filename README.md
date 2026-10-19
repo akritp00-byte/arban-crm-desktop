@@ -13,4 +13,4 @@ The Arban CRM app for the Arban AI team. It opens the live CRM (crm.arbanai.co.u
 
 ## Speech recognition (optional)
 
-To use Phonon-2 on your computer, open **Settings → Temujin → Speech recognition** and click **Set it up**. It's a one-off download of about 400 MB. Until it's set up, Temujin uses Whisper.
+To use Phonon-2 on your computer, right-click the **Arban CRM tray icon** (bottom-right, near the clock) and choose **Set up speech**. It's a one-off download of about 400 MB. Until it's set up, Temujin uses Whisper.
